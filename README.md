@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="1200" src="https://github.com/RyamAlmalki/AI-Virtual-Painter/blob/main/header.png?raw=true" alt="Material Bread logo">
+    <img width="1200" src="https://github.com/RyamAlmalki/QuickFly/blob/main/banner.png" alt="Material Bread logo">
 </p>
 
 
